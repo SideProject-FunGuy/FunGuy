@@ -16,6 +16,7 @@ MERGED from [:react-native-screens] /Users/ayanajg/FunGuy/node_modules/react-nat
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/332c2db77bde379cbb0c3b0e9987148e/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/ayanajg/FunGuy/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -178,6 +179,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ayanaj
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/ayanajg/FunGuy/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/ayanajg/FunGuy/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/ayanajg/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
